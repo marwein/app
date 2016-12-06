@@ -1,0 +1,28 @@
+{
+  "name": "marwein",
+  "version": "1.0.0",
+  "description": "marwein angular codeigniter project boilerplate",
+  "main": "index.html",
+  "dependencies": {
+    "bower": "^1.8.0",
+    "browsify": "^0.0.4",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0",
+    "sass": "^0.5.0",
+    "yarn": "^0.17.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marwein <marwein@bouallous.fr>",
+  "license": "MIT",
+  "keywords": [
+    "marwein",
+    "angular",
+    "codeigniter",
+    "project",
+    "boilerplate"
+  ]
+}

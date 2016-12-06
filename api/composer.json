@@ -1,0 +1,13 @@
+{
+    "name": "marwein/app",
+    "require": {
+        "raveren/kint": "^1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marwein",
+            "email": "marwein.bouallous@live.fr"
+        }
+    ]
+}
